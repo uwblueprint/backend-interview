@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 19,
+      "name": "Social Venture Partners",
+      "abbreviation": "svp",
+      "team_size": 11,
+      "tech_stack": ["JavaScript", "React", "MongoDB"],
+      "completed": false
+    },
+    {
+      "id": 18,
+      "name": "Ontario Secondary School Dancefest",
+      "abbreviation": "ossdf",
+      "team_size": 4,
+      "tech_stack": ["Python", "JavaScript", "React"],
+      "completed": false
+    },  
+    {
+      "id": 1,
+      "name": "Help Lesotho",
+      "abbreviation": "hls",
+      "team_size": 7,
+      "tech_stack": ["JavaScript", "PostgreSQL"],
+      "completed": true
+    }
+  ]
+}
